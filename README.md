@@ -1,4 +1,4 @@
-Hi there! I'm Luciano Diaz 👋
+<strong>Hi there! I'm Luciano Diaz</strong> 👋
 
 💻 I'm a Full-Stack Developer with experience building and maintaining desktop and web applications using the .NET stack (Web Forms, Web API) as main technology. I'm currently working on a web application about sales advertising spaces in a multinational company, with a continuously communication in English with the clients and team members.
 
@@ -10,25 +10,25 @@ Hi there! I'm Luciano Diaz 👋
 
 ⚡ Fun fact: I'm a lifeguard too. I worked on it before be a programmer.
 
-Proficient in:
-✔️ .NET Framework 4.5 +
-✔️ C#
-✔️ JavaScript
-✔️ MS SQL Server
-✔️ jQuery
-✔️ Jasmine
-✔️ Html
-✔️ CSS
+<u>Proficient in:</u><br>
+✔️ .NET Framework 4.5 +<br>
+✔️ C#<br>
+✔️ JavaScript<br>
+✔️ MS SQL Server<br>
+✔️ jQuery<br>
+✔️ Jasmine<br>
+✔️ Html<br>
+✔️ CSS<br>
 ✔️ Others: Visual Studio, React, Git, Agile Methodologies, Jira, Confluence, Slack
 
-Soft Skills:
-⭐️ Proactivity
-⭐️ Predisposition
-⭐️ Responsability
-⭐️ Problem-solving
-⭐️ Fellowship
-⭐️ Empathy
+<u>Soft Skills:</u><br>
+⭐️ Proactivity<br>
+⭐️ Predisposition<br>
+⭐️ Responsability<br>
+⭐️ Problem-solving<br>
+⭐️ Fellowship<br>
+⭐️ Empathy<br>
 
-📫 How to reach me:
-👉 Send me an email: luchodiaz1995@gmail.com
-👉 Go to my Linkedin: https://www.linkedin.com/in/lucianonicolasdiaz/
+📫 <u>How to reach me:</u><br>
+👉 Send me an email: luchodiaz1995@gmail.com<br>
+👉 Go to my Linkedin: https://www.linkedin.com/in/lucianonicolasdiaz/<br>
